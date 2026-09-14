@@ -1,0 +1,12 @@
+pandas
+numpy
+requests
+geopy
+matplotlib
+plotly
+folium
+streamlit
+streamlit-folium
+python-dotenv
+google-genai
+pytest

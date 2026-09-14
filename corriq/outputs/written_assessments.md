@@ -1,0 +1,223 @@
+# CorriQ Community Assessments
+
+## Red Deer
+
+Summary:
+Red Deer holds a CorriQ rank of 1 along the Red Deer River with an overall score of 95.0. The community features a population of 100,844 and demonstrates high scores across transportation, population, and river proximity metrics.
+
+Strengths:
+- Achieves top-tier scores of 100.0 in transportation, population, and river proximity.
+- Features robust local infrastructure, including 631 recreation counts and 114 tourism POIs within a 10km radius.
+
+Accessibility Gap:
+The supplied evidence indicates strong transportation access via Highway 2 QEII and CP and CN freight, alongside high transportation and major road feature metrics, though specific micro-mobility or transit gaps are not detailed in the dataset. Further investigation could examine local network connectivity relative to the 456 major road features.
+
+Recommendation:
+Planners may investigate further how the extensive recreation and accommodation infrastructure intersects with regional transport corridors. Additional study could be considered regarding tourism POI distribution along the Red Deer River.
+
+---
+
+## Canmore
+
+Summary:
+Canmore achieves an overall CorriQ score of 71.4 and ranks 2 along the Bow River corridor, supported by a population of 16,629. The data indicates strong tourism and river proximity profiles, alongside existing transportation connections via Highway 1 and CP mainline freight.
+
+Strengths:
+- Achieves a maximum River Proximity Score of 100.0, alongside a strong Tourism Score of 70.6 and 166 tourism POIs within 10 km.
+- Features a robust recreation count of 266 within 10 km, complementing a Population Score of 66.9.
+
+Accessibility Gap:
+The transportation score of 58.1 suggests that while primary access is supported by Highway 1 and CP mainline freight, certain localized transport metrics may warrant further review. 
+
+Recommendation:
+Planners may investigate further how the transportation infrastructure correlates with the high density of tourism and recreation features within the 10 km radius.
+
+---
+
+## Banff
+
+Summary:
+Banff achieves an overall CorriQ score of 71.3 and a rank of 3 along the Bow River corridor, supported by a population of 8,305. The community indicates a high tourism capacity alongside strong river proximity metrics.
+
+Strengths:
+- Demonstrates a high tourism score of 83.7, supported by 1,801 tourism POIs within a 10km radius.
+- Achieves a river proximity score of 100.0 along the Bow River.
+
+Accessibility Gap:
+The transportation score of 55.7 indicates a limitation relative to the community's high tourism score, despite the presence of Highway 1, CP mainline, and Rocky Mountaineer rail access. 
+
+Recommendation:
+Planners may investigate further how transportation accessibility infrastructure aligns with high tourism activity and population scores.
+
+---
+
+## Cochrane
+
+Summary:
+Cochrane is positioned along the Bow River with an overall CorriQ score of 62.3, ranking 4 in the corridor. The community supports a population of 32,199 and features direct access via Highway 1A and Highway 22 alongside CP spur freight rail access.
+
+Strengths:
+- Demonstrates a maximum river proximity score of 100.0, indicating close positioning to the Bow River corridor.
+- Features a population score of 79.1, corresponding to a population of 32,199 residents.
+
+Accessibility Gap:
+The transportation score of 44.5 indicates potential limitations in overall transport metrics compared to population and river scores, despite the presence of Highway 1A, Highway 22, and CP spur freight rail access.
+
+Recommendation:
+Planners may investigate further how the transportation score relates to existing infrastructure, and additional assessments could be considered regarding the balance between local population size and current transportation accessibility.
+
+---
+
+## Lake Louise
+
+Summary:
+Lake Louise, situated along the Bow River corridor, holds an overall CorriQ score of 54.7 and is ranked 5th. With a population of 1,000, the community's profile indicates high river proximity alongside a moderate transportation score of 58.4.
+
+Strengths:
+- Demonstrates a maximum river proximity score of 100.0, indicating immediate adjacency to the Bow River.
+- Features significant tourism infrastructure within a 10km radius, including 473 tourism POIs and 20 viewpoints.
+
+Accessibility Gap:
+The population score of 15.4 suggests a lower local resident base relative to transportation and tourism activity, which may indicate a reliance on transient visitors accessing the area via Highway 1, Highway 93, or the CP mainline freight rail corridor.
+
+Recommendation:
+Planners may warrant further investigation into how the high volume of surrounding major road (74) and railway (39) features within 10km interacts with local transportation and visitor management.
+
+---
+
+## Lacombe
+
+Summary:
+Lacombe holds a CorriQ rank of 6 along the Red Deer River with an overall score of 53.3 and a population of 13,396 (2021). The data indicates moderate transportation and population metrics alongside a lower tourism score, positioning the community for targeted planning reviews.
+
+Strengths:
+- Demonstrates a transportation score of 65.7, supported by Highway 2 QEII and a CP freight line.
+- Features a population score of 63.0 corresponding to a population of 13,396.
+
+Accessibility Gap:
+The river proximity score of 50.0 indicates moderate spatial alignment with the Red Deer River corridor. This may warrant further investigation regarding the connection between local transportation networks and river access points.
+
+Recommendation:
+Planners may investigate further how the existing infrastructure and recreation features within 10 km align with the community's tourism score of 30.9. Additional study could be considered to assess how transportation assets connect to local points of interest.
+
+---
+
+## Drumheller
+
+Summary:
+Drumheller holds a CorriQ rank of 7 along the Red Deer River with an overall score of 50.4. The community has a population of 7,909 and demonstrates distinct regional proximity to the river corridor. 
+
+Strengths:
+- Features a maximum river proximity score of 100.0 along the Red Deer River corridor.
+- Records a population of 7,909 alongside a population score of 53.3.
+
+Accessibility Gap:
+The transportation score of 23.2 indicates a limitation in the current transport metrics, despite the presence of Highway 9 and Highway 56 and a CN freight line. This suggests that accessibility factors may warrant further investigation by planners.
+
+Recommendation:
+Planners could consider further investigating the relationship between the transportation score and existing regional infrastructure. Additional review of the tourism score of 46.5 may also be warranted.
+
+---
+
+## Innisfail
+
+Summary:
+Innisfail holds a CorriQ rank of 8 along the Red Deer River corridor with an overall score of 44.4. The community supports a population of 7,985 and demonstrates moderate transportation and population scores alongside lower tourism metrics.
+
+Strengths:
+- Demonstrates a transportation score of 55.9, supported by primary access via Highway 2 QEII and a CN freight line.
+- Records a population of 7,985, corresponding to a population score of 53.5.
+
+Accessibility Gap:
+The tourism score of 16.6 indicates a substantial gap relative to the transportation and population scores. This suggests that while regional connections are present, tourist-oriented infrastructure could be limited.
+
+Recommendation:
+Planners may investigate further how existing transportation routes relate to the lower tourism score. Additional review of local recreational and accommodation counts could be considered to better understand corridor dynamics.
+
+---
+
+## Sylvan Lake
+
+Summary:
+Sylvan Lake holds a CorriQ rank of 9 within the Red Deer River corridor, featuring an overall CorriQ score of 42.6 and a population of 15,995. The community's data indicates moderate population and river proximity metrics alongside specific transportation and tourism indicator values.
+
+Strengths:
+- Demonstrates a solid population score of 66.2, reflecting the community's base of 15,995 residents.
+- Features a river proximity score of 50.0 within the Red Deer River corridor.
+
+Accessibility Gap:
+The transportation score of 27.9, alongside reliance on Highway 11 and an absence of verified rail access in the provided data, suggests potential transportation limitations that may warrant further review.
+
+Recommendation:
+Planners may investigate further by examining the existing 88 major road features and 39 railway features within 10 km to better understand regional connectivity. Additional review of the recorded 122 recreation features and 8 accommodations could be considered.
+
+---
+
+## Stettler
+
+Summary:
+Stettler is positioned along the Red Deer River corridor with an overall CorriQ score of 35.4 and a rank of 10. The community supports a population of 5,695 and features multi-modal transport connections including Highway 12, Highway 56, CN, and heritage steam rail.
+
+Strengths:
+- The river proximity score is 50.0, indicating close spatial alignment with the Red Deer River corridor.
+- The population score stands at 47.3, supported by a recorded population of 5,695.
+
+Accessibility Gap:
+The transportation score is 20.5, which indicates a lower relative metric in this domain despite the presence of Highway 12, Highway 56, CN, and heritage steam rail.
+
+Recommendation:
+Planners may investigate further how the transportation metrics relate to local tourism and recreation assets within the 10km radius.
+
+---
+
+## Sundre
+
+Summary:
+Sundre holds a CorriQ rank of 11 along the Red Deer River corridor with an overall score of 29.7. The community has a population of 2,672 and demonstrates strong river proximity alongside established tourism and recreational infrastructure within a 10km radius.
+
+Strengths:
+- Demonstrates a maximum river proximity score of 100.0 along the Red Deer River corridor.
+- Features 34 recreation counts, 13 accommodation counts, and 22 tourism POIs within a 10km radius.
+
+Accessibility Gap:
+A transportation score of 0.0 indicates a notable limitation in the current metrics, despite the presence of Highway 27 and Highway 22 as primary highways and 21 major road features within a 10km radius. Rail access is not present.
+
+Recommendation:
+Planners may investigate further how the transportation score impacts overall accessibility relative to the high river proximity and local recreational assets.
+
+---
+
+## Bragg Creek
+
+Summary:
+Bragg Creek is situated along the Bow River corridor with an overall CorriQ score of 26.9, ranking 12th among assessed communities. The community maintains a recorded population of 432 and exhibits a high river proximity score of 100.0 alongside notable tourism asset counts within a 10km radius.
+
+Strengths:
+- Features a high river proximity score of 100.0 along the Bow River corridor.
+- Demonstrates a tourism score of 21.3, supported by 117 tourism POIs and 38 recreation counts within a 10km radius.
+
+Accessibility Gap:
+The community records a transportation score of 4.5, alongside primary highway access via Highway 22 and Highway 66 and a lack of documented rail access. These metrics indicate that transportation infrastructure constraints could be present relative to its tourism and river proximity metrics.
+
+Recommendation:
+Planners may investigate further how the transportation score of 4.5 relates to local movement networks. Additional study could be considered regarding the integration of primary highway access with regional tourism and recreation sites.
+
+---
+
+## Three Hills
+
+Summary:
+Three Hills is positioned along the Red Deer River corridor with an overall CorriQ score of 17.6, ranking 13th. The community supports a population of 3,171 and is connected by Highway 21 and Highway 583. 
+
+Strengths:
+- Demonstrates a river proximity score of 50.0 and a population score of 36.6.
+- Features 26 recreation counts and 5 accommodation counts within a 10km radius.
+
+Accessibility Gap:
+The low transportation score of 0.9 and the absence of recorded rail access indicate potential limitations in multi-modal transportation connectivity. 
+
+Recommendation:
+Planners may warrant further investigation into the relationship between the low tourism score of 0.0 and the existing recreational and accommodation infrastructure within the 10km radius.
+
+---
+
