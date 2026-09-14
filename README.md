@@ -4,7 +4,7 @@
 
 🔗 **Live app:** [corridoriq-kujuowbqyq4ceeep8hklaj.streamlit.app](https://corridoriq-kujuowbqyq4ceeep8hklaj.streamlit.app/)
 
-CorridorIQ is a data pipeline and interactive dashboard that scores 14 communities along Alberta's Bow and Red Deer River corridors on tourism opportunity and transportation accessibility, then generates a grounded, LLM-written assessment for each one. It was built during a Data Scientist internship with [Integrated Travel](https://integrated.travel), a non-profit advocating for regional passenger rail and transportation equity in Alberta, to support a real tourism development strategy for the region.
+CorridorIQ is a data pipeline and interactive dashboard that scores 14 communities along Alberta's Bow and Red Deer River corridors on tourism opportunity and transportation accessibility, then generates a grounded, LLM-written assessment for each one. 
 
 ---
 
